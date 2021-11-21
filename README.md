@@ -8,9 +8,9 @@ The school board notified us of acadmic dishonesty, scpecifically  regarding rea
 
 ## Results
 
-![old district](https://user-images.githubusercontent.com/89805399/142556787-75527081-ccb4-46ff-a459-992b98cf9831.png)
+https://github.com/tj1599/School_District_Analysis/blob/main/Resources/Old_District_Analysis.PNG
 
-![new distrcit](https://user-images.githubusercontent.com/89805399/142556796-7b0fc827-699e-4807-95ed-5c5daed56394.png)
+https://github.com/tj1599/School_District_Analysis/blob/main/Resources/New_District_Analysis.PNG
 
 The district summary has the same results as before due to us not dropping all 9th grade students. We replaced their scores instead.
 
@@ -28,15 +28,9 @@ For the school analysis, the only difference is within Thomas High School as we 
 
 ### Scores by grade
 
-The scores by grade seem to be the same.
-
-
+The scores by grade seem to be the same
 
 ### Scores by school spending : 
-
-![111917807-48ea4580-8a58-11eb-864f-39a524fcace8](https://user-images.githubusercontent.com/89805399/142773490-faba70ba-5f05-4acc-b1b7-56671d3bc149.png)
-
-![111917817-51428080-8a58-11eb-8283-2668b7427892](https://user-images.githubusercontent.com/89805399/142773493-d6162477-9761-471f-8021-2cf5d215d8d8.png)
 
 No difference in school spending. 
 
@@ -46,7 +40,7 @@ No difference in school spending.
 No difference in school size
 
 ### Scores by School Type
- Changing the number of students has zero effects on what school type school
+ Changing the number of students has zero effects on school type.
  
  ## Summary
  
@@ -55,3 +49,11 @@ When presenting the data, Maria needs to decide if she wants to present it with 
 After removing the 9th grade data, the scores for math and reading did not change. The reason for the removal of data because the potential academic dishonesty. With the data presented did not confirm that cheating made a difference in the average grades. 
 The overall performance for Thomas High School decreases by 0.3 which puts the school at an overall 90.6 passing percentage and makes the school 2nd place.
 How the school board vill and adjust the data for 9th grade class will determine how they will move on through high school
+
+
+
+
+
+The only noticeable difference in the data has been the Average and Passing scores from Thomas high school. This data will be very useful to the school board because it shows a wide variety of different metrics that will allow them to make educated decisions on funding and other things. Based on our analysis, Cabrera high school had the highhest overall passing scores while Johnson had the lowest. We can also see that the students within the <$584 group have the highest overall passing scores. After removing the 9th grade data, the scores for math and reading did not change. The reason for the removal of data because the potential academic dishonesty. With the data presented did not confirm that cheating made a difference in the average grades. 
+The overall performance for Thomas High School decreases by 0.3 which puts the school at an overall 90.6 passing percentage and makes the school 2nd place.
+How the school board will adjust the data for 9th grade class will determine how they will move on through high school.
